@@ -24,3 +24,8 @@ git branch -M main
 git push -u origin main/master
 
 
+===========FOR SECOND TIME COMMIT====================
+
+git add . 
+git commit -m "message"
+git push

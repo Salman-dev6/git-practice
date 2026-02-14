@@ -1,0 +1,10 @@
+
+===========TO CREATE A NEW BRANCH FROM OYUR main/master BRANCH=============
+
+// you will be attomaticaly switch to this new branch
+
+git checkout -b newBranchName
+
+
+//to check all branch
+git branch
